@@ -1,8 +1,9 @@
 # FIFA 20 and previous editions Dataset
 
+[Notebook Viewer](https://nbviewer.jupyter.org/github/ayoub-berdeddouch/eda-projects/blob/5f945932a6dc06b2acfee8fd6631b61aa05bb3e8/Fifa20_EDA/Fifa20_EDA_Notebook%20.ipynb)
 
 ## Context
-The datasets provided include the players data for the Career Mode from FIFA 15 to FIFA 20 ("players_20.csv"). The data allows multiple comparison of the same players across the last 6 version of the videogame.
+TNotebook Viewer](https://nbviewer.jupyter.org/github/ayoub-berdeddouch/eda-projects/blob/5f945932a6dc06b2acfee8fd6631b61aa05bb3e8/Fifa20_EDA/Fifa20_EDA_Notebook%20.ipynb)he datasets provided include the players data for the Career Mode from FIFA 15 to FIFA 20 ("players_20.csv"). The data allows multiple comparison of the same players across the last 6 version of the videogame.
 
 Some ideas of possible analysis:
 
@@ -26,5 +27,5 @@ Feel free to use the available dataset the way you prefer and do not hesitate to
 ## Acknowledgements
 Data has been scraped from the publicly available website https://sofifa.com.
 
-## Link
-![LINK](https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset)
+## Dataset Link 
+[LINK](https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset)
