@@ -3,7 +3,7 @@
 [Notebook Viewer](https://nbviewer.jupyter.org/github/ayoub-berdeddouch/eda-projects/blob/5f945932a6dc06b2acfee8fd6631b61aa05bb3e8/Fifa20_EDA/Fifa20_EDA_Notebook%20.ipynb)
 
 ## Context
-TNotebook Viewer](https://nbviewer.jupyter.org/github/ayoub-berdeddouch/eda-projects/blob/5f945932a6dc06b2acfee8fd6631b61aa05bb3e8/Fifa20_EDA/Fifa20_EDA_Notebook%20.ipynb)he datasets provided include the players data for the Career Mode from FIFA 15 to FIFA 20 ("players_20.csv"). The data allows multiple comparison of the same players across the last 6 version of the videogame.
+The datasets provided include the players data for the Career Mode from FIFA 15 to FIFA 20 ("players_20.csv"). The data allows multiple comparison of the same players across the last 6 version of the videogame.
 
 Some ideas of possible analysis:
 
